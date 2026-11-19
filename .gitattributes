@@ -1,0 +1,5 @@
+# 统一用 LF 存仓库：Windows 上 checkout 出 CRLF 会让 CI 与 shell 脚本出问题
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.mp4 binary
